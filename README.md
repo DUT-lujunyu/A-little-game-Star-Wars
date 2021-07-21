@@ -1,7 +1,7 @@
 # A-little-game-Star-Wars
 A little game based on pygame. You can learn the common syntax of Python through this game. 
 
-This game includes blood bar, energy bar, background music, different props and bullets.
+This game includes **blood bar**, **energy bar**, **background music**, **different props and bullets**.
 
 
 ## Screenshot

@@ -48,5 +48,5 @@ Press C.
 ### Using Probs
 After using **Weapon Enhancement**.
 <div align = "center">
-<img src = "https://user-images.githubusercontent.com/53985277/126167759-a8846bab-b148-411a-a7f5-b8235615296c.png" width = "46%" align = left />
+<img src = "https://user-images.githubusercontent.com/53985277/126167759-a8846bab-b148-411a-a7f5-b8235615296c.png" width = "46%" align = center />
 </div>

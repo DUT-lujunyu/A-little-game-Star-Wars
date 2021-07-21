@@ -28,12 +28,16 @@ Fire: Press Z/X.
 <img src = "https://user-images.githubusercontent.com/53985277/126167539-62509870-7f9a-416c-8974-86731f897bcc.png" width = "45%" align = left /><img src = "https://user-images.githubusercontent.com/53985277/126167627-a8a6d8f6-d5da-42e4-9654-21426ce5d703.png"  width = "45%" align = right />
 </div>
 
+## 
+##
 Hide: Press C.
 <div align = "center">
 <img src = "https://user-images.githubusercontent.com/53985277/126167844-22e11810-e261-4cea-8da2-0662f87e6d2a.png" width = "45%" align = left />
 </div>
 
+##
+
 After using **Weapon Enhancement**.
 <div align = "center">
-<img src = "https://user-images.githubusercontent.com/53985277/126167759-a8846bab-b148-411a-a7f5-b8235615296c.png width = "45%" align = left />
+<img src = "https://user-images.githubusercontent.com/53985277/126167759-a8846bab-b148-411a-a7f5-b8235615296c.png" width = "45%" align = left />
 </div>
